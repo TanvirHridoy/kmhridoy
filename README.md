@@ -69,7 +69,7 @@
 
 # About the project
 
-[![Site preview](/public/social-image.png)](https://tanvirhridoy.github.io/kmhridoy/)
+[![Site preview](/public/social-images.png)](https://tanvirhridoy.github.io/kmhridoy/)
 
 
 ## Technology stack 🛠️
