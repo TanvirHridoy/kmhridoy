@@ -99,24 +99,24 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
+    { name: "C#", value: 95 },
+    { name: "SQL", value: 95 },
+    { name: "Data Structures", value: 80 },
     { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
+    { name: "JavaScript", value: 80 },
+    { name: "React", value: 70 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Python", value: 50 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
+    { name: "Goal-Oriented", value: 90 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Positivity", value: 95 },
+    { name: "Adaptability", value: 90 },
+    { name: "Problem Solving", value: 85 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Creativity", value: 80 },
   ],
 };
 
@@ -125,23 +125,43 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Senior Software Engineering or Project Manager opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "kmhridoyju@gmail.com",
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Senior Software Engineer',
+      companyname:'MF Consult',
+      companylogo: require('../assets/img/opus-logo.png'),
+      date: 'Oct 2023 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Senior Software Engineer',
+      companyname:'Opus Technologies Limited',
+      companylogo: require('../assets/img/opus-logo.png'),
+      date: 'Sept 2022 – Sept 2023',
+    },
+    {
+      role: 'Software Engineer (Senior Officer)',
+      companyname:'Krishibid Group',
+      companylogo: require('../assets/img/kg.jpg'),
+      date: 'April 2022 – August 2022',
+    },
+    {
+      role: 'Software Engineer',
+      companyname:'Advanced Software & IT Services Ltd',
+      companylogo: require('../assets/img/ASIT.png'),
+      date: 'Feb 2018 – Mar 2022',
+    },
+    {
+      role: 'Web Developer',
+      companyname:'Saatrong Systems IT Soluition',
+      companylogo: require('../assets/img/saatrongsystem.png'),
+      date: 'Jan 2017 – Dec 2018',
     },
   ]
 }
