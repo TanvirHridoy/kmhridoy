@@ -1,6 +1,5 @@
 {
   "name": "kmhridoy-portfolio",
-  "homepage": "https://TanvirHridoy.github.io/kmhridoy",
   "version": "2.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

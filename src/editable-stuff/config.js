@@ -135,8 +135,8 @@ const experiences = {
   data: [
     {
       role: 'Senior Software Engineer',
-      companyname:'MF Consult',
-      companylogo: require('../assets/img/opus-logo.png'),
+      companyname:'MF Consult ApS',
+      companylogo: require('../assets/img/mfconsult.png'),
       date: 'Oct 2023 – Present',
       website:'http://mfcon.dk/'
     },
