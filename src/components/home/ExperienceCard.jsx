@@ -39,7 +39,6 @@ const ExperienceCard = ({ data }) => {
         <a
           href={data.website}
           target="_blank"
-          style={{textDecoration:'none', color:'black'}}
           rel="noopener noreferrer"
         >
           <b>{data.companyname}</b>
