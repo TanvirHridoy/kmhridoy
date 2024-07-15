@@ -11,6 +11,8 @@ const ExperienceCard = ({ data }) => {
         <img className=" bg-white mb-3" style=" height: 162px; width: 310px; " src={data.companylogo} alt="" />
         <p className="lead">
           {data.role}
+          <br/>
+          <b>{data.companyname}</b>
           <br />
           {data.date}
         </p>
