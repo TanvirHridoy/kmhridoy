@@ -7,7 +7,7 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://tanvirhridoy.github.io/kmhridoy">hashirshoaeb.github.io/home</a>
     <br />
     <br />
     <a href="https://hashirshoaeb.github.io">About Me</a>
@@ -69,7 +69,7 @@
 
 # About the project
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](https://tanvirhridoy.github.io/kmhridoy/)
 
 
 ## Technology stack 🛠️
@@ -173,9 +173,6 @@ Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
 
 If you found this project valuable, please consider giving it a ⭐️ on GitHub. Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
 
-<div>
-  <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
- </div>
 
 # Showcase 🚀
 
@@ -243,8 +240,5 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 
 # Notice:
 
-This project has been **archived**. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
+This project has been **archived**. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/TanvirHridoy/kmhridoy)
 
-# Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
