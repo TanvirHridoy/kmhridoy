@@ -138,30 +138,35 @@ const experiences = {
       companyname:'MF Consult',
       companylogo: require('../assets/img/opus-logo.png'),
       date: 'Oct 2023 – Present',
+      website:'http://mfcon.dk/'
     },
     {
       role: 'Senior Software Engineer',
       companyname:'Opus Technologies Limited',
       companylogo: require('../assets/img/opus-logo.png'),
       date: 'Sept 2022 – Sept 2023',
+      website:'https://opus-bd.com/'
     },
     {
       role: 'Software Engineer (Senior Officer)',
       companyname:'Krishibid Group',
       companylogo: require('../assets/img/kg.jpg'),
       date: 'April 2022 – August 2022',
+      website:'http://krishibidgroup.com'
     },
     {
       role: 'Software Engineer',
       companyname:'Advanced Software & IT Services Ltd',
       companylogo: require('../assets/img/rsz_1asit.png'),
       date: 'Feb 2018 – Mar 2022',
+      website:'https://asitsl.com/'
     },
     {
       role: 'Web Developer',
       companyname:'Saatrong Systems IT Soluition',
       companylogo: require('../assets/img/saatrongsystem.png'),
       date: 'Jan 2017 – Dec 2018',
+      website:'https://saatrongsystems.com/'
     },
   ]
 }
