@@ -154,7 +154,7 @@ const experiences = {
     {
       role: 'Software Engineer',
       companyname:'Advanced Software & IT Services Ltd',
-      companylogo: require('../assets/img/ASIT.png'),
+      companylogo: require('../assets/img/rsz_1asit.png'),
       date: 'Feb 2018 – Mar 2022',
     },
     {
