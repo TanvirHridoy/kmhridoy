@@ -7,19 +7,19 @@
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
     <strong>Site URL / Demo » </strong> 
-    <a href="https://tanvirhridoy.github.io/kmhridoy">hashirshoaeb.github.io/home</a>
+    <a href="https://tanvirhridoy.github.io/kmhridoy">tanvirhridoy.github.io/kmhridoy</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://github.com/TanvirHridoy/kmhridoy">About Me</a>
   </p>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+![GitHub contributors](https://img.shields.io/github/contributors/tanvirhridoy/home?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/tanvirhridoy/home?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/tanvirhridoy/home?style=for-the-badge)](https://github.com/tanvirhridoy/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/tanvirhridoy/home?color=ffcc66&style=for-the-badge)](https://github.com/tanvirhridoy/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/tanvirhridoy/home?style=for-the-badge)](https://github.com/tanvirhridoy/home/blob/master/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tanvirhridoy?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/tanvirhridoy)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=^20.10.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.2.3&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
@@ -167,7 +167,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at tanvirhridoy@gmail.com.
 
 # Support my work
 
