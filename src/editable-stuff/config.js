@@ -25,16 +25,20 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/md-k-m-hridoy-281308126/",
+      url: "https://www.linkedin.com/in/kmhridoy/",
     },
     {
-      image: "fa-github",
-      url: "https://github.com/TanvirHridoy/",
+      image: "fa-youtube",
+      url: "https://www.youtube.com/@LazyPandaCoding",
+    },
+    {
+      image: "fa-twitter",
+      url: "https://x.com/lazypandacoding",
     },
   ],
 };
 
-// ABOUT SECTION
+// ABOUT SECTION <FontAwesomeIcon icon="fa-brands fa-threads" />
 // If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
 //a) your Instagram username
 //      i.e:profilePictureLink:"johnDoe123",
@@ -54,7 +58,7 @@ const about = {
   imageLink: require("../editable-stuff/profilepic.jpeg"),
   imageSize: 375,
   message:"Hi, I'm K.M. Hridoy, a Senior Software Engineer from Bangladesh with a passion for building great software. With a Bachelor's and Master's in Computer Science Engineering, I've spent the last seven years diving deep into the world of software development.  I've had the pleasure of working on a variety of projects, always aiming to create efficient and innovative solutions. My journey has equipped me with a solid grasp of the software development lifecycle, and I love tackling new challenges and learning along the way.  Thanks for stopping by my portfolio! Feel free to explore my work and see how I can contribute to your next project.",
-  resume: "https://drive.google.com/file/d/1CMpsKFIYXj5oQgKZ1P5JD-Jb1cOYHSfa/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1G1dJKe0iv6mMV6WO9uFy4vyea3udmy4z/view?usp=sharing",
 };
 
 // PROJECTS SECTION
