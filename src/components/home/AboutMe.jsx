@@ -10,6 +10,11 @@ const pictureLinkRegex = new RegExp(
 const AboutMe = ({ heading, message, link, imgSize, resume }) => {
   const [profilePicUrl, setProfilePicUrl] = React.useState("");
   const [showPic, setShowPic] = React.useState(Boolean(link));
+  const profileImageStyle = {
+    objectFit: "cover",
+    objectPosition: "center",
+    boxShadow: "0 1rem 2.5rem rgba(0, 0, 0, 0.14)",
+  };
   // https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook
   React.useEffect(() => {
     const handleRequest = async () => {
@@ -35,7 +40,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
 
   return (
     <Jumbotron id="aboutme" className="m-0">
-      <div className="container row">
+      <div className="container row mx-auto align-items-center">
         <div className="col-5 d-none d-lg-block align-self-center">
           {showPic && (
             <img
@@ -44,10 +49,25 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
               alt="profilepicture"
               width={imgSize}
               height={imgSize}
+              style={profileImageStyle}
             />
           )}
         </div>
         <div className={`col-lg-${showPic ? "7" : "12"}`}>
+          {showPic && (
+            <div className="d-lg-none text-center mb-4">
+              <img
+                className="border border-secondary rounded-circle"
+                src={profilePicUrl}
+                alt="profilepicture"
+                style={{
+                  ...profileImageStyle,
+                  width: "min(68vw, 240px)",
+                  height: "min(68vw, 240px)",
+                }}
+              />
+            </div>
+          )}
           <h2 className="display-4 mb-5 text-center">{heading}</h2>
           <p className="lead text-center" style={{ whiteSpace: 'pre-line' }}>{message}</p>
           {resume && (
