@@ -57,7 +57,7 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/profilepic.jpeg"),
   imageSize: 375,
-  message:"Hi, I'm K.M. Hridoy, a Senior Software Engineer from Bangladesh with a passion for building great software. With a Bachelor's and Master's in Computer Science Engineering, I've spent the last seven years diving deep into the world of software development.  I've had the pleasure of working on a variety of projects, always aiming to create efficient and innovative solutions. My journey has equipped me with a solid grasp of the software development lifecycle, and I love tackling new challenges and learning along the way.  Thanks for stopping by my portfolio! Feel free to explore my work and see how I can contribute to your next project.",
+  message:"Hi, I'm K.M. Hridoy, a Project Manager and Senior Software Engineer from Bangladesh with a strong background in building scalable business software. With Bachelor's and Master's degrees in Computer Science and Engineering, I have spent more than seven years leading and delivering software across fintech, enterprise systems, automation, and web platforms.  Currently at Grapes Technology Limited, I manage software projects focused on AI-driven development, intelligent automation, and scalable digital products. I have developed and implemented a microfinance platform that is currently operational in four African countries, combining hands-on engineering experience with product planning, team coordination, and delivery ownership.  Thanks for visiting my portfolio. Feel free to explore my work and connect if you are interested in practical, reliable, and impact-driven software solutions.",
   resume: "https://drive.google.com/file/d/1G1dJKe0iv6mMV6WO9uFy4vyea3udmy4z/view?usp=sharing",
 };
 
@@ -105,8 +105,12 @@ const skills = {
   hardSkills: [
     { name: "C#", value: 95 },
     { name: "SQL", value: 95 },
+    { name: "Project Management", value: 90 },
+    { name: "Microfinance Systems", value: 90 },
+    { name: "AI-Assisted Development", value: 85 },
+    { name: "Intelligent Automation", value: 80 },
+    { name: "Prompt Engineering", value: 80 },
     { name: "Data Structures", value: 75 },
-    { name: "C/C++", value: 50 },
     { name: "JavaScript", value: 80 },
     { name: "React", value: 70 },
     { name: "HTML/CSS", value: 90 },
@@ -138,10 +142,17 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
+      role: 'Project Manager',
+      companyname:'Grapes Technology Limited',
+      companylogo: require('../assets/img/grapes-logo.png'),
+      date: 'Jul 2025 - Present',
+      website:'https://grapestl.com'
+    },
+    {
       role: 'Senior Software Engineer',
       companyname:'MF Consult ApS',
       companylogo: require('../assets/img/mfconsult.png'),
-      date: 'Oct 2023 – Present',
+      date: 'Oct 2023 - Jul 2025',
       website:'http://mfcon.dk/'
     },
     {
